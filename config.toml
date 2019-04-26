@@ -1,4 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+canonifyurls = "true"
 title = "My New Hugo Site"
 theme = "uilite"
+enableEmoji = "true"
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
