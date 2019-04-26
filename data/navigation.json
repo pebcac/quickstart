@@ -1,14 +1,14 @@
-			[
-			  {
-			    "title" : "Blog",
-			    "href" : "blog"
-			  },
-			  {
-			    "title" : "Work",
-			    "href" : "work"
-			  },
-			  {
-			    "title" : "contact",
-			    "href" : "#contact"
-			  }
-			]
+[
+  {
+    "title" : "Blog",
+    "href" : "blog"
+  },
+  {
+    "title" : "Work",
+    "href" : "work"
+  },
+  {
+    "title" : "contact",
+    "href" : "#contact"
+  }
+]

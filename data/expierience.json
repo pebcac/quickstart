@@ -1,15 +1,15 @@
-			{
-			  "title" : "Experience",
-			  "experience" : [
-			    {
-			      "timeperiod" : "2017-2018",
-			      "company" : "Company 1",
-			      "description" : "..."
-			    },
-			    {
-			      "timeperiod" : "2018-present",
-			      "company" : "Company 2",
-			      "description" : "..."
-			    }
-			  ]
-			}
+{
+  "title" : "Experience",
+  "experience" : [
+    {
+      "timeperiod" : "2017-2018",
+      "company" : "Company 1",
+      "description" : "..."
+    },
+    {
+      "timeperiod" : "2018-present",
+      "company" : "Company 2",
+      "description" : "..."
+    }
+  ]
+}
